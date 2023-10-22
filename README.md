@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+This is a developer as well as an active competitive programmer from China.
+
+- C/C++ / python / haskell / coq
+- vim / VSCode
+
 <!--
 **jhdonghj/jhdonghj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
