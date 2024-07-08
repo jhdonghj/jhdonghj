@@ -2,7 +2,7 @@
 
 This is a developer as well as an active competitive programmer from China.
 
-- C/C++ / python / java / haskell / coq
+- C/C++ / python / java / rust / coq
 - vim / VSCode
 
 <!--
