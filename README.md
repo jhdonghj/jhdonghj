@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-This is a developer as well as an active competitive programmer from China.
+This is an undergrad student as well as an active competitive programmer from China.
 
-- C/C++ / python / java / rust / coq
+- C/C++ / python
 - vim / VSCode
 
 <!--
